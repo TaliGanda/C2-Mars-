@@ -7,7 +7,7 @@ This tool only used for testing server and education,
 
 not for any criminal activity.
 ## Example:
-![Example](https://raw.githubusercontent.com/Leeon123/Stress-tester/master/test.png)
+![Example]
 ## Download:
 
     git clone https://github.com/TaliGanda/C2-Mars-.git
