@@ -1,4 +1,3 @@
-![alt text](https://raw.githubusercontent.com/Leeon123/Stress-tester/master/logo.png)
 # C2-Mars
 C2 Mars Tool 
 
